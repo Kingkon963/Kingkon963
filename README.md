@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingkon963&label=Profile%20views&color=0e75b6&style=flat" alt="kingkon963" /> </p>
 
-- 🔭 I’m currently working on **TaskClone LLC**
-
 - 🌱 I’m currently learning **Transformers, Building Custom Domain LLMs**
 
 - 💬 Ask me about **JavaScript / React.js / Python / Django**
