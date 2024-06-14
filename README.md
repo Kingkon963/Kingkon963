@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **JavaScript / React.js / Python / Django**
 
-- 📄 Know about my experiences [on my Top Rated Upwork profile](https://www.upwork.com/freelancers/~014046cecba2ff7614)
+- 📄 Know about my experiences [on my Upwork profile](https://www.upwork.com/freelancers/~014046cecba2ff7614)
 
-- ⚡ Fun fact **my nickname is Kingkon, don't confuse it with the mighty ${\textsf{Kingkon\color{red}g}}$ 🦍**
+- ⚡ Fun fact **my nickname is Kingkon, let's not confuse it with the mighty ${\textsf{Kingkon\color{red}g}}$ 🦍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
