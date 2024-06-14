@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naimul Islam</h1>
-<h3 align="center">A software engineer specialized in full-stack web development</h3>
+<h3 align="center">A software engineer specialized in web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingkon963&label=Profile%20views&color=0e75b6&style=flat" alt="kingkon963" /> </p>
 
