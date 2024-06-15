@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [on my Upwork profile](https://www.upwork.com/freelancers/~014046cecba2ff7614)
 
-- ⚡ Fun fact **my nickname is Kingkon, let's not confuse it with the ${\textsf{Kingkon\color{red}g}}$ 🦍**
+- ⚡ Fun fact: My nickname is Kingkon. Don't confuse it with ${\textsf{Kingkon\color{red}g}}$ 🦍 – no relation, I promise!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
